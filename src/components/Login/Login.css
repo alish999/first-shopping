@@ -1,0 +1,8 @@
+
+.Container .Form{  
+  background-color: #eee;
+  display: flex;
+  border-radius: 14px;
+  width: 500px;
+  
+}
