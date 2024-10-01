@@ -1,0 +1,35 @@
+*{
+        padding:0px;
+        margin:0px;
+}
+.Navbar{
+        background:#eee; 
+        height:auto;
+        width:100%;
+        display: flex;
+        text-align: center;
+        padding: 5px 8px;
+}
+.Navbar .logo{
+        height: 50ppx;
+        width: 30px;
+   
+      
+}
+.Navbar .cart{
+        height: 50ppx;
+        width: 50px;
+        background:none;
+ 
+}
+
+.search{
+ width:600px;
+ border-radius: 8px;
+}
+
+.Button{
+ margin : 0 20px 0 600px;
+
+ font-size: 12px;
+}
