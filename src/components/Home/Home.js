@@ -9,11 +9,15 @@ function Home() {
     <div>
       <div className="Navbar">
         <img src={Img} alt="" className="logo" />
+        <div className="location">
+          <p>deliver</p>
+        </div>
         <input
           type="text"
           placeholder="search"
           className="search"
           name="text"
+          img src= " " alt="icon"
         />
         <button type="button" className="Buttonn">
           your orders
